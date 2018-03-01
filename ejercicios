@@ -1,0 +1,26 @@
+// wewe.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include <iodtrea>
+#include "conio.h"
+
+using namespace std;
+void main()
+
+{
+	 int N,Z=0, r ,c;
+	 do 
+	 {
+		 cout <<"INGRESER UN NUMERO CON MAS DE 3 DIGITOS : "<< end1;
+		 cin>>
+			 }while (N>100);
+	 while (N>0)
+	 { r=N%10;
+	 Z=Z*10+r;
+	 C=N/10;
+	 N=C;
+	 } cout <<"El numero invertido es : "<<end1 <<Z;
+	 getch();
+	
+}
